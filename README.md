@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/51275418?v=4" alt="穆白" width="200" height="200" style="border-radius: 40%;" />
-</div>
-
 # Hi 👋, I'm 穆白
 ## 什么都干点
 
