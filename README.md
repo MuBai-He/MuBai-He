@@ -40,8 +40,11 @@
 
 ## 📊 GitHub统计
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuBai-He&show_icons=true&theme=dark&hide_border=true" alt="GitHub统计" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuBai-He&theme=dark&hide_border=true" alt="连续贡献" />
 </div>
 
