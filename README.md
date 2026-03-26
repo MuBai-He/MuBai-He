@@ -12,10 +12,9 @@
 
 ## 👨‍💻 关于我
 
-我是一名热爱技术与开源的开发者，主要专注于 **AI 应用开发、语音技术以及虚拟角色交互系统**。
+我是一名热爱技术与开源的开发者，目前专注于 AI 应用开发、语音技术以及虚拟角色交互系统。
 
-我喜欢将 **大语言模型（LLM）、语音合成（TTS）、语音识别（ASR）** 等技术结合起来，构建更自然、更有趣的人机交互体验，并通过开源项目与开发者社区分享这些实践。
-
+我致力于将 大语言模型（LLM）、语音合成（TTS）和语音识别（ASR） 等技术组合在一起，探索更自然、更有趣的人机交互方式。同时，我也会把这些实践沉淀为开源项目，与社区一起交流和成长。
 目前主要在探索：
 
 - 🤖 **AI / 大语言模型应用开发**
@@ -69,5 +68,9 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=vscode)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea)
+![Keil](https://img.shields.io/badge/-Arm%20Keil-05122A?style=flat&logo=armkeil&logoColor=0091BD)
+![EasyEDA](https://img.shields.io/badge/-EasyEDA-05122A?style=flat&logo=easyeda&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?logo=pytorch&logoColor=EE4C2C)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)
