@@ -32,11 +32,21 @@
 
 <div align="center">
 
-<a href="https://space.bilibili.com/291094727" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bilibili.svg" alt="bilibili" height="30" width="30" fill="#00A1D6" /></a>• <a href="https://twitter.com/mubai6410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="30" /></a>
+<a href="https://space.bilibili.com/291094727" target="blank">
+  <img src="https://cdn.simpleicons.org/bilibili/white" height="30" width="30" />
+</a> • 
 
-</div>  
+<a href="https://twitter.com/mubai6410" target="blank">
+  <img src="https://cdn.simpleicons.org/x/white" height="30" width="30" />
+</a> • 
 
-<br/><br/>  
+<a href="https://instagram.com/mubai8203" target="blank">
+  <img src="https://cdn.simpleicons.org/instagram/white" height="30" width="30" />
+</a>
+
+</div>
+
+<br/><br/>
 
 ## 📊 GitHub统计
 
