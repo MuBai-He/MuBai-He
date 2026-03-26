@@ -50,15 +50,8 @@
 ## 📊 GitHub统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuBai-He&show_icons=true&theme=dark&hide_border=true" alt="GitHub统计" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuBai-He&theme=dark&hide_border=true" alt="连续贡献" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuBai-He&layout=compact&theme=dark&hide_border=true" alt="热门语言" />
+  <img height="160em" src="https://github-readme-stats-rho-vert-53.vercel.app/api?username=MuBai-He&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide=issues" />
+  <img height="160em" src="https://github-readme-stats-rho-vert-53.vercel.app/api/top-langs/?username=MuBai-He&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 <br/><br/>  
