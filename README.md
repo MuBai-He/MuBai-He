@@ -51,7 +51,7 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-rho-vert-53.vercel.app/api?username=MuBai-He&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide=issues&v=20261007-2" />
-  <img height="160em" src="https://github-readme-stats-rho-vert-53.vercel.app/api/top-langs/?username=MuBai-He&layout=compact&theme=github_dark&hide_border=true&v=20261007-2" />
+  <img height="160em" src="https://github-readme-stats-rho-vert-53.vercel.app/api/top-langs/?username=MuBai-He&layout=compact&theme=github_dark&hide_border=true&v=20261007-3" />
 </div>
 
 <br/><br/>  
